@@ -1,0 +1,29 @@
+body {
+	font-family: 'Roboto Slab', sans-serif;
+}
+
+.links a {
+	text-decoration: none;
+	color: #6C7A89;
+}
+
+.links a:visited {
+	color: darkgray;
+}
+
+.links p {
+	margin-bottom: 5px;
+}
+
+.links p.subtitle {
+	font-size: 12px;
+	margin-top: -5px;
+}
+
+.links p.subtitle a {
+	color: black;
+}
+
+.links p.subtilte a:hover {
+	text-decoration: underline;
+}
