@@ -1,10 +1,11 @@
 body {
 	font-family: 'Roboto Slab', sans-serif;
+	margin: 20px;
 }
 
 .links a {
 	text-decoration: none;
-	color: #6C7A89;
+	color: #4B77BE;
 }
 
 .links a:visited {
@@ -13,6 +14,7 @@ body {
 
 .links p {
 	margin-bottom: 5px;
+	font-size: 16px;
 }
 
 .links p.subtitle {
@@ -24,6 +26,10 @@ body {
 	color: black;
 }
 
-.links p.subtilte a:hover {
-	text-decoration: underline;
+.links p.subtitle a:hover {
+	color: #4ECDC4;
+}
+
+.story ul li, .story ul li p {
+	font-size: 12px;
 }
